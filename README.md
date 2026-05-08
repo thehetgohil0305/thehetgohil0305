@@ -40,6 +40,7 @@ A third-year Computer Science and Technology student at [LJ Institute of Enginee
 
 #### Tools and Technologies
 
+![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-4B8BBE.svg?style=for-the-badge&logo=iot&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/earner/earned/badge/279d09f0-6b04-417e-82df-310670f7043a)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
