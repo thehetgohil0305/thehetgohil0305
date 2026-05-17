@@ -1,0 +1,57 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="30%" stop-color="#58a6ff"/>
+      <stop offset="70%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textgrad" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#79c0ff"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="8"/>
+  <!-- Subtle grid dots -->
+  <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.04"/>
+  </pattern>
+  <rect width="900" height="220" fill="url(#dots)"/>
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#line)" rx="2"/>
+  <!-- Left bracket decoration -->
+  <text x="48" y="125" font-family="'Courier New', monospace" font-size="72" fill="#58a6ff" fill-opacity="0.15" font-weight="700">{</text>
+ 
+  <!-- Right bracket decoration -->
+  <text x="820" y="125" font-family="'Courier New', monospace" font-size="72" fill="#58a6ff" fill-opacity="0.15" font-weight="700">}</text>
+ 
+  <!-- Dot indicator -->
+  <circle cx="80" cy="48" r="5" fill="#ff5f57"/>
+  <circle cx="100" cy="48" r="5" fill="#febc2e"/>
+  <circle cx="120" cy="48" r="5" fill="#28c840"/>
+  <!-- Name -->
+  <text x="450" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="url(#textgrad)" text-anchor="middle" letter-spacing="1">Het Gohil</text>
+ 
+  <!-- Subtitle -->
+  <text x="450" y="143" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle" letter-spacing="2">FULL-STACK DEVELOPER  ·  AI &amp; ML ENTHUSIAST</text>
+ 
+  <!-- Bottom divider line -->
+  <rect x="325" y="162" width="250" height="1" fill="url(#line)" opacity="0.5"/>
+  <!-- Tags row -->
+  <text x="270" y="188" font-family="'Courier New', monospace" font-size="12" fill="#3fb950">MERN Stack</text>
+  <text x="390" y="188" font-family="'Courier New', monospace" font-size="12" fill="#8b949e">·</text>
+  <text x="408" y="188" font-family="'Courier New', monospace" font-size="12" fill="#3fb950">Python</text>
+  <text x="468" y="188" font-family="'Courier New', monospace" font-size="12" fill="#8b949e">·</text>
+  <text x="486" y="188" font-family="'Courier New', monospace" font-size="12" fill="#3fb950">Machine Learning</text>
+  <text x="615" y="188" font-family="'Courier New', monospace" font-size="12" fill="#8b949e">·</text>
+  <text x="633" y="188" font-family="'Courier New', monospace" font-size="12" fill="#3fb950">UI/UX</text>
+ 
+  <!-- Bottom accent line -->
+  <rect x="0" y="217" width="900" height="3" fill="url(#line)" rx="2"/>
+</svg>
