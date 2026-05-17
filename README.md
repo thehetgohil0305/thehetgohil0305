@@ -1,23 +1,51 @@
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Het%20Gohil&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descColor=a8b2d8" />
+
+</div>
+
+---
+
 ### Hi there, I'm [Het Gohil](https://github.com/thehetgohil0305) 👋
 
-A third-year Computer Science and Technology student at [LJ Institute of Engineering and Technology](https://ljku.edu.in/), Ahmedabad, India. I have a strong passion for Full-Stack Development, Artificial Intelligence, and Machine Learning, and actively build projects that solve real-world problems. I also have an interest in UI/UX design using Figma. I regularly contribute to open-source projects and share my work on my GitHub profile.
+A third-year Computer Science and Technology student at [LJ Institute of Engineering and Technology](https://ljku.edu.in/), Ahmedabad, India. I have a strong passion for **Full-Stack Development**, **Artificial Intelligence**, and **Machine Learning**, and actively build projects that solve real-world problems. I also have an interest in **UI/UX design** using Figma. I regularly contribute to open-source projects and share my work on my GitHub profile.
 
-**My Interests**:
-- Full-Stack Web Development (MERN Stack)
-- Artificial Intelligence & Machine Learning
-- REST API Development & System Design
-- UI/UX using Figma
+---
 
- **I am open to**:
+### 🧭 About Me
 
-- Collaboration on full-stack and ML projects,
-- Internship opportunities in software development,
-- Open-source contributions.
-  
+```yaml
+name        : Het Gohil
+location    : Ahmedabad, India
+education   : B.Tech CST — LJ Institute of Engineering and Technology
+year        : 3rd Year
+focus       : Full-Stack Development, AI & ML, REST APIs, UI/UX
+open_to     : Collaborations · Internships · Open Source
+```
 
-## Skills:
+---
 
-#### Languages & Frameworks:
+### 💡 My Interests
+
+- 🌐 **Full-Stack Web Development** (MERN Stack)
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🔗 **REST API Development & System Design**
+- 🎨 **UI/UX using Figma**
+
+---
+
+### 🤝 I Am Open To
+
+- Collaboration on full-stack and ML projects
+- Internship opportunities in software development
+- Open-source contributions
+
+---
+
+## 🛠️ Skills
+
+#### Languages & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -57,23 +85,31 @@ A third-year Computer Science and Technology student at [LJ Institute of Enginee
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 
-## Featured Projects:
+---
 
-🔹 **[DocuVault: Documentation Vault](https://github.com/thehetgohil0305/DocuVault-Documentation-Vault)** - A centralized document management system that enables secure storage, organization, and analysis of files with full-stack integration.
+## 🚀 Featured Projects
 
-🔹 **[University Internship Portal](https://github.com/thehetgohil0305/University-Internship-Portal)** - A scalable internship management system built with ASP.NET Core, Angular, and SQL Server, following clean architecture with JWT-based authentication and Docker deployment.
+🔹 **[DocuVault: Documentation Vault](https://github.com/thehetgohil0305/DocuVault-Documentation-Vault)**
+> A centralized document management system that enables secure storage, organization, and analysis of files with full-stack integration.
 
-## Connect with me:
+🔹 **[University Internship Portal](https://github.com/thehetgohil0305/University-Internship-Portal)**
+> A scalable internship management system built with ASP.NET Core, Angular, and SQL Server, following clean architecture with JWT-based authentication and Docker deployment.
 
-<p align = "center">
-  
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-gohil/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thehetgohil/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetgohil2005@gmail.com)
 
 </p>
 
-## GitHub Stats:
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thehetgohil0305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Het's GitHub Stats" width="48%" />
@@ -84,4 +120,12 @@ A third-year Computer Science and Technology student at [LJ Institute of Enginee
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehetgohil0305&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehetgohil0305&label=Profile%20views&color=38a9ff&style=flat" alt="thehetgohil0305" /> </p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thehetgohil0305&label=Profile%20views&color=38a9ff&style=flat" alt="thehetgohil0305" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
+</div>
