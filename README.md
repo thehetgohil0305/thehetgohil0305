@@ -16,12 +16,12 @@ A third-year Computer Science and Technology student at [LJ Institute of Enginee
 ### 🧭 About Me
 
 ```yaml
-name        : Het Gohil
-location    : Ahmedabad, India
-education   : B.Tech CST — LJ Institute of Engineering and Technology
-year        : 3rd Year
-focus       : Full-Stack Development, AI & ML, REST APIs, UI/UX
-open_to     : Collaborations · Internships · Open Source
+Name        : Het Gohil
+Location    : Ahmedabad, India
+Education   : B.Tech CST — LJ Institute of Engineering and Technology
+Year        : 3rd Year
+Focus       : Full-Stack Development, AI & ML, REST APIs, UI/UX
+Open_To     : Collaborations · Internships · Open Source
 ```
 
 ---
@@ -105,19 +105,6 @@ open_to     : Collaborations · Internships · Open Source
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thehetgohil/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetgohil2005@gmail.com)
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehetgohil0305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Het's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehetgohil0305&theme=tokyonight&hide_border=true" alt="Het's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehetgohil0305&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 ---
